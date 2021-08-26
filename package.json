@@ -1,6 +1,6 @@
 {
     "name": "node-addon-demo",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "使用C++开发Node原生插件Demo",
     "main": "index.js",
     "scripts": {
@@ -12,6 +12,11 @@
     ],
     "author": "Chunle Tian",
     "license": "ISC",
+    "bugs": "https://github.com/Ellison997/Node-Addon-Demo/issues",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ellison997/Node-Addon-Demo"
+    },
     "dependencies": {
         "bindings": "^1.5.0",
         "node-addon-api": "^4.0.0"
